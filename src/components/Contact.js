@@ -2,10 +2,10 @@ const Contact=()=>{
     return(
        <section>
         <h3>☎ Contact</h3>
-        <a href="#" target="blank">Linkdin</a>
-        <a href="#" target="blank">Facebook</a>
-        <a href="#" target="blank">Instagram</a>
-        <a href="#" target="blank">Instagram</a>
+        <a href="#" target="blank" rel="nonreferrer">Linkdin</a>
+        <a href="#" target="blank" rel="nonreferrer">Facebook</a>
+        <a href="#" target="blank" rel="nonreferrer">Instagram</a>
+        <a href="#" target="blank" rel="nonreferrer">Instagram</a>
        </section>
     )
 }
